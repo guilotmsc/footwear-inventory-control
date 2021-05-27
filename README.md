@@ -49,26 +49,26 @@ Things you may want to cover:
 
 * Screenshots:
 
-<p float="left">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 9.png" width="600" height="400">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 2.png" width="600" height="400">
-</p>
-<p float="left">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 3.png" width="600" height="400">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 4.png" width="600" height="400">
-</p>
-<p float="left">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 5.png" width="600" height="400">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 6.png" width="600" height="400">
-</p>
-<p float="left">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 7.png" width="600" height="400">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 8.png" width="600" height="400">
-</p>
-<p float="left">
-    <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="600" height="400">
-</p>
-<p float="left">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="600" height="400">
-  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 2.png" width="600" height="400">
-</p>
+<p>Customers</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 2.png" width="800" height="400">
+
+<p>Brands</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 3.png" width="800" height="400">
+
+<p>Categories</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 4.png" width="800" height="400">
+
+<p>Stock Entry</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 9.png" width="800" height="400">
+
+<p>New Order</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 5.png" width="800" height="400">
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 6.png" width="800" height="400">
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 7.png" width="800" height="400">
+
+<p>New Product</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 8.png" width="800" height="400">
+
+<p>Login</p>
+<img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="800" height="400">
+
