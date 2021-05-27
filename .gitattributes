@@ -1,4 +1,9 @@
 *.rb diff=ruby
 *.gemspec diff=ruby
 
+static/* linguist-vendored
+docs/* linguist-documentation
+*.html linguist-language=Ruby
+*.html.erb linguist-language=Ruby
+
 *.rb linguist-detectable=true
