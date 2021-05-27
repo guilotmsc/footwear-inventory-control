@@ -66,7 +66,6 @@ Things you may want to cover:
   <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 8.png" width="600" height="400">
 </p>
 <p float="left">
-    <label>Login</label>
     <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="600" height="400">
 </p>
 <p float="left">
