@@ -1,0 +1,42 @@
+default: &default
+  adapter: postgresql
+  pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+  timeout: 5000
+  username: stock-maitenance
+  password: 123qwe
+  host: localhost
+  port: 5432
+
+development:
+  <<: *default
+  database: stock
+
+test:
+  <<: *default
+  database: stock
+
+production:
+  <<: *default
+  database: stock
+
+
+# default: &default
+#   adapter: postgresql
+#   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
+#   timeout: 5000
+#   username: postgres
+#   password: 123qwe
+#   host: localhost
+#   port: 5432
+
+# development:
+#   <<: *default
+#   database: control
+
+# test:
+#   <<: *default
+#   database: control
+
+# production:
+#   <<: *default
+#   database: control

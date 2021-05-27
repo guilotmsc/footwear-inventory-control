@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Product:</strong>
+  <%= @stocking.product %>
+</p>
+
+<p>
+  <strong>Numbering:</strong>
+  <%= @stocking.numbering %>
+</p>
+
+<p>
+  <strong>Entry:</strong>
+  <%= @stocking.entry %>
+</p>
+
+<p>
+  <strong>Out:</strong>
+  <%= @stocking.out %>
+</p>
+
+<p>
+  <strong>Balance:</strong>
+  <%= @stocking.balance %>
+</p>
+
+<%= link_to 'Edit', edit_stocking_path(@stocking) %> |
+<%= link_to 'Back', stockings_path %>

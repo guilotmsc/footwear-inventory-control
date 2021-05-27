@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Numberings</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Number</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @numberings.each do |numbering| %>
+      <tr>
+        <td><%= numbering.number %></td>
+        <td><%= link_to 'Show', numbering %></td>
+        <td><%= link_to 'Edit', edit_numbering_path(numbering) %></td>
+        <td><%= link_to 'Destroy', numbering, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Numbering', new_numbering_path %>
