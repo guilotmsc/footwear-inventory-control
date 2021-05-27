@@ -1,0 +1,4 @@
+*.rb diff=ruby
+*.gemspec diff=ruby
+
+*.rb linguist-detectable=true
