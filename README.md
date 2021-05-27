@@ -50,6 +50,26 @@ Things you may want to cover:
 * Screenshots:
 
 <p float="left">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 9.png" width="600" height="400">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 2.png" width="600" height="400">
+</p>
+<p float="left">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 3.png" width="600" height="400">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 4.png" width="600" height="400">
+</p>
+<p float="left">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 5.png" width="600" height="400">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 6.png" width="600" height="400">
+</p>
+<p float="left">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 7.png" width="600" height="400">
+  <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 8.png" width="600" height="400">
+</p>
+<p float="left">
+    <label>Login</label>
+    <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="600" height="400">
+</p>
+<p float="left">
   <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 1.png" width="600" height="400">
   <img src="https://github.com/guilotmsc/footwear-inventory-control/blob/master/app/assets/images/screenshots/Screen Shot 2.png" width="600" height="400">
 </p>
